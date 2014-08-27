@@ -1,0 +1,19 @@
+{
+  "name": "divshot",
+  "version": "0.0.1",
+  "description": "Initial project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/generzv/divshot.git"
+  },
+  "author": "Gener",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/generzv/divshot/issues"
+  },
+  "homepage": "https://github.com/generzv/divshot"
+}
